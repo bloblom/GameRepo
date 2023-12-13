@@ -1,0 +1,10 @@
+get http://localhost:5121/games/
+Content-Type: application/json
+
+{
+    "name":"Alan Wake 2",
+    "genre":"Survival Horror",
+    "price": 59.99,
+    "release_date": "2023-10-27",
+    "image_uri": "https://placehold.co/100"
+}
